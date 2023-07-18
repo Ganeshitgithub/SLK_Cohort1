@@ -1,2 +1,14 @@
 # SLK_Cohort1
-new repo
+[
+{ 
+   "id"=1,
+   "name"="VASU",
+   "age"=25,
+  }
+  { 
+   "id"=2,
+   "name"="GANI",
+   "age"=26,
+  }
+  
+
